@@ -1,10 +1,4 @@
-# CommonGateway\PetStoreBundle\Service\PetStoreService  
-
-
-
-
-
-
+# CommonGateway\PetStoreBundle\Service\PetStoreService
 
 ## Methods
 
@@ -12,10 +6,7 @@
 |------|-------------|
 |[petStoreHandler](#petstoreservicepetstorehandler)|An example handler that is triggerd by an action.|
 
-
-
-
-### PetStoreService::petStoreHandler  
+### PetStoreService::petStoreHandler
 
 **Description**
 
@@ -23,9 +14,7 @@
 public petStoreHandler (void)
 ```
 
-An example handler that is triggerd by an action. 
-
- 
+An example handler that is triggerd by an action.
 
 **Parameters**
 
@@ -37,6 +26,4 @@ An example handler that is triggerd by an action.
 
 > A handler mus ALWAYS return an array
 
-
 <hr />
-

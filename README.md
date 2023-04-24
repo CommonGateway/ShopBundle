@@ -1,3 +1,3 @@
 # ShopBundle
 
-Based on https://peppolautoriteit.nl/ 
+Based on https://peppolautoriteit.nl/
